@@ -1,10 +1,20 @@
 # logdensityGIF-kef
 
 
-## Sample space = (0, \inf), base density = PDF of Gamma distribution 
+![alt text](gif/density-waiting-Gaussian-bw=5.0-gammabase_pen_exp-8.0.gif)
 
-![alt text](gif/waiting_Gaussian_bw=5.2_pen_exp(-13).gif)
+![alt text](gif/density-waiting-Gaussian-bw=5.0-gammabase_pen_exp-10.0.gif)
 
-## Sample space = (0, 400), base density = PDF of uniform distribution 
+![alt text](gif/density-waiting-Gaussian-bw=5.0-gammabase_pen_exp-12.0.gif)
 
-![alt text](gif/waiting_Gaussian_bw=5.2_uniformbase_pen_exp(-13).gif)
+![alt text](gif/density-waiting-Gaussian-bw=7.0-gammabase_pen_exp-8.0.gif)
+
+![alt text](gif/density-waiting-Gaussian-bw=7.0-gammabase_pen_exp-10.0.gif)
+
+![alt text](gif/density-waiting-Gaussian-bw=7.0-gammabase_pen_exp-12.0.gif)
+
+![alt text](gif/density-waiting-Gaussian-bw=9.0-gammabase_pen_exp-8.0.gif)
+
+![alt text](gif/density-waiting-Gaussian-bw=9.0-gammabase_pen_exp-10.0.gif)
+
+![alt text](gif/density-waiting-Gaussian-bw=9.0-gammabase_pen_exp-12.0.gif)
